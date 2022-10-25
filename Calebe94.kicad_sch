@@ -4455,7 +4455,7 @@
     (property "Value" "SW_DIP_x01" (id 1) (at 29.21 38.7349 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "keyboard_parts:ALPS_SKCM_reverse_pad" (id 2) (at 25.4 37.465 0)
+    (property "Footprint" "keyboard_parts:ALPS_SKCM" (id 2) (at 25.4 37.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 25.4 37.465 0)
@@ -5133,7 +5133,7 @@
       (reference "R3") (unit 1) (value "68") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/c6406fc2-6159-460e-847f-da408c279cb0"
-      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "keyboard_parts:ALPS_SKCM_reverse_pad")
+      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "keyboard_parts:ALPS_SKCM")
     )
     (path "/a06d700f-65f9-46be-b220-6a3499423ba4"
       (reference "SW2") (unit 1) (value "SW_DIP_x01") (footprint "keyboard_parts:ALPS_SKCM")
