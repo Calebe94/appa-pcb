@@ -12,7 +12,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Added schematic as a `.svg` image;
 * Added GPL3+ license file;
 * Added Appa and my logo as silk;
- 
+* Added the `gerber` folder to ship the gerber files on tags;
+* Added GPL3+ license logo as silk;
+* Added `ATMEGA328p` standalone circuit as a redundancy;
+* Added `gerber/` folder;
+
 ### Fixed
 
 ### Changed
