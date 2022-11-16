@@ -16,6 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Added GPL3+ license logo as silk;
 * Added `ATMEGA328p` standalone circuit as a redundancy;
 * Added `gerber/` folder;
+* Added `GPL3.svg` logo;
+* Added `fp-info-cache` file;
 
 ### Fixed
 
