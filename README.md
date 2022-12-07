@@ -1,8 +1,14 @@
-# Calebe94's Keyboard
+# Appa keyboard - PCB
 
 This keyboard is inspired by [Plaid](https://github.com/AntonioPelayo/plaid-through-hole-keyboard) and [Gherkin Apls 1.1](https://www.40percent.club/2017/08/gherkin-alps-11.html).
 
 I'm using white APLS switches for this project and Arduino Pro Mini as the core microcontroller.
+
+<img src="./res/appa-keyboard.jpg" width="500px">
+
+## Dependencies
+
+* [Kicad 6+](https://packages.debian.org/bookworm/kicad).
 
 ## Symbols and Footprints
 
@@ -12,7 +18,7 @@ I'm using white APLS switches for this project and Arduino Pro Mini as the core 
 
 ## Schematic
 
-<img src="./Calebe94.svg" width="500px">
+<img src="./res/appa-schematic.jpg" width="500px">
 
 # License
 
