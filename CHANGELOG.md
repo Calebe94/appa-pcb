@@ -11,6 +11,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+### Changed
+
+### Removed
+
+## [1.1.0]
+
+### Added
+
+### Fixed
+
 * Fixed `BOOT` button that was not wired to the microcontroller [#1](https://github.com/Calebe94/appa-pcb/issues/1);
 * Fixed `COL_10` and `COL_11` that was not wired to the microcontroller [#2](https://github.com/Calebe94/appa-pcb/issues/2); 
 * Added `res/appa-schematic.svg` file;
@@ -60,6 +70,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-[unreleased]: https://github.com/Calebe94/appa-pcb/compare/1.0.1...HEAD
+[unreleased]: https://github.com/Calebe94/appa-pcb/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/Calebe94/appa-pcb/compare/1.0.1...1.1.0
 [1.0.1]: https://github.com/Calebe94/appa-pcb/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/Calebe94/appa-pcb/releases/tag/1.0.0
