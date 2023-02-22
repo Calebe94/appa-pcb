@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * Removed `appa.jpg` file because there is already a schematic file in the `res/` folder;
 * Removed `fp-info-cache` file;
+* Removed `gerber/` folder;
 
 ## [1.0.1]
 
